@@ -1,7 +1,7 @@
 # ImersaoJavaAlura
 ![Badge](https://img.shields.io/badge/Status-Desenvolvimento-yellow)
 
-Resultado parcial da 01 aula :
+<h2>Resultado parcial da 01 aula :</h2>
 ![alura-stickers-1](https://user-images.githubusercontent.com/17932598/179656790-d092901e-8472-43ad-b9d1-b77ef98469c3.png)
 
 Resultado parcial da 02 aula :
